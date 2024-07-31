@@ -5,7 +5,7 @@ import { Typography } from '@/components/common/Typography';
 export default function HomeScreen() {
   return (
     <S.Container>
-      <Typography>:)</Typography>
+      <Typography>Vercel Test</Typography>
     </S.Container>
   );
 }
